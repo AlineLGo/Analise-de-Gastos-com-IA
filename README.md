@@ -18,3 +18,6 @@ O sistema analisa seus gastos e gera:
 - Resumo financeiro
 - Categoria com maior gasto
 - Dicas de economia com IA
+
+## ▶️ Ver projeto funcionando
+[ABRA NO GOOGLE COLAB] (https://colab.research.google.com/drive/17_bXqWpDX0fAGsbHBLa8SCiaMKEaCEJr?usp=drive_link)
